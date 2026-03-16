@@ -10,6 +10,10 @@ This repository contains an **Exploratory Data Analysis (EDA)** focused on three
 The goal of this project is to gain insights into these iconic species that inhabit **Antarctica, nearby islands, and sub-Antarctic regions** through data exploration and visualization.
 
 
+The goal of this project is to gain insights into these iconic species that inhabit **Antarctica, nearby islands, and sub-Antarctic regions** through data exploration and visualization.
+
+![Penguin](images/penguin_Species1.jpg)
+
 # About Penguin Species
 
 There are **17 penguin species** on Earth, each with unique characteristics and habitats.  
@@ -26,6 +30,10 @@ They are known for their fast swimming ability and relatively larger body size.
 ###  Chinstrap Penguins
 Chinstrap penguins are named after the **thin black band under their head**, resembling a helmet strap.  
 They are an important part of the Antarctic ecosystem.
+
+![Penguin](images/penguin_Species2.png)
+
+
 # Dataset
 
 The dataset used in this project contains **7 features describing penguin characteristics**.
